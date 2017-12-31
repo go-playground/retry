@@ -1,5 +1,8 @@
 Retry library
 =============
+![Project status](https://img.shields.io/badge/version-1.0.0-green.svg)
+[![Build Status](https://travis-ci.org/go-playground/retry.svg?branch=master)](https://travis-ci.org/go-playground/retry)
+[![Coverage Status](https://coveralls.io/repos/github/go-playground/retry/badge.svg?branch=master)](https://coveralls.io/github/go-playground/retry?branch=master)
 [![Go Report Card](https://goreportcard.com/badge/github.com/go-playground/retry)](https://goreportcard.com/report/github.com/go-playground/retry)
 [![GoDoc](https://godoc.org/github.com/go-playground/retry?status.svg)](https://godoc.org/github.com/go-playground/retry)
 ![License](https://img.shields.io/dub/l/vibe-d.svg)
