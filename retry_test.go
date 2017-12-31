@@ -35,6 +35,6 @@ func TestRetryBail(t *testing.T) {
 		t.Fatalf("Expected %v Got %s", nil, err)
 	}
 	if count != 1 {
-		t.Fatalf("Expected %v Got %s", 1, count)
+		t.Fatalf("Expected %v Got %d", 1, count)
 	}
 }
